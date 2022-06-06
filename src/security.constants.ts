@@ -1,0 +1,9 @@
+export const SECRET_PROVIDER = 'secret';
+export const USER_CREATOR = 'user_creator';
+export const USER_UPDATER = 'user_updater';
+export const USER_RESOLVER = 'user_resolver';
+export const NULL_PROVIDER = 'null_provider';
+export const SECURITY_OPTIONS = 'security_options';
+export const DEFAULT_SCOPE = 'DEFAULT';
+export const PUBLIC_ROUTE = 'public_route';
+export const SECURED_ROUTE_GUARD = 'secured_route_guard';
